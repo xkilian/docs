@@ -257,6 +257,7 @@ separate exporters are needed:
    * [MidoNet](https://github.com/midonet/midonet)
    * [midonet-kubernetes](https://github.com/midonet/midonet-kubernetes) (**direct**)
    * [Minio](https://github.com/minio/minio)
+   * [Netbox](https://netbox.readthedocs.io/)
    * [Netdata](https://github.com/firehol/netdata)
    * [Pretix](https://pretix.eu/)
    * [Quobyte](https://www.quobyte.com/) (**direct**)
